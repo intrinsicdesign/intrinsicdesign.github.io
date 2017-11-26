@@ -1,4 +1,4 @@
 # Welcome to Intrinsic
 ## Psychology-Driven Design and Development
 
-live at intrinsic.design
+live at http://www.intrinsic.design
