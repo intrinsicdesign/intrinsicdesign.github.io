@@ -1,0 +1,6 @@
+{
+  "name": "intrinsicdesign.github.io",
+  "scripts": {
+    "serve": "python -m SimpleHTTPServer"
+  }
+}
