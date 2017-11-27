@@ -1,3 +1,34 @@
+/*Colors Selection: http://paletton.com/#uid=33d120kg5FM5+WybkP6kdw1odso*/
+
 body {
   font-family: 'Inconsolata', monospace;
+  /*Dark Grey*/
+  color: #2B2B2B;
+  /*background-color: #60C1B0;*/
+}
+
+img {
+  margin: auto;
+}
+
+a {
+  color: #2B2B2B;
+  text-decoration: none;
+}
+
+.blue:hover {
+  color: black;
+  background-color: #60C1B0;
+  text-decoration: underline;
+}
+
+.purple:hover {
+  color: black;
+  background-color: #CD66BD;
+  text-decoration: underline;
+}
+.yellow:hover {
+  color: black;
+  background-color: #FFEA7F;
+  text-decoration: underline;
 }
